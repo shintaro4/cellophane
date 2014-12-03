@@ -8,6 +8,11 @@ It creates various variations by combining your manipulation and Cellular Automa
 
 Tested with openFrameworks 0.8.4 + iOS 8.1 + XCode 6.1 + OSX 10.10.
 
+Dependency
+----------
+
+[ofxMaxim](https://github.com/micknoise/Maximilian)
+
 License
 -------
 
